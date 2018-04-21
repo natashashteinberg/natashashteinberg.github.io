@@ -31,9 +31,14 @@ p{
 }
 
 
-.navbar-light{
+.navbar{
+	text-align:center;
 	background-color:transparent;
 
+}
+
+a{
+	color:#f8f9fa;
 }
 	
 
@@ -44,7 +49,7 @@ p{
 	font-size:20px;
 	position: fixed;
      bottom: 20px;
-     right: 0;
+  left:20px;
   
 
 }
